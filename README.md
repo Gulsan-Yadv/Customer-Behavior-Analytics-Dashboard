@@ -30,20 +30,6 @@ https://github.com/Gulsan-Yadv/Customer-Behavior-Analytics-Dashboard
 
 ---
 
-## 📊 Dashboard Preview
-
-> **Add screenshots here after taking them from your deployed dashboard.**
-
-Example:
-
-```
-screenshots/dashboard_home.png
-screenshots/charts.png
-screenshots/filters.png
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - Python
@@ -53,23 +39,6 @@ screenshots/filters.png
 - NumPy
 - Git
 - GitHub
-
----
-
-## 📂 Project Structure
-
-```
-Customer-Behavior-Analytics-Dashboard/
-│
-├── app.py
-├── customer_shopping_behavior.csv
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behavior_dashboard.pbix
-├── requirements.txt
-├── README.md
-├── Business Problem Document.pdf
-└── Customer Shopping Behavior Analysis.pdf
-```
 
 ---
 
@@ -103,34 +72,6 @@ This dashboard helps businesses:
 
 ---
 
-## ▶️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/Gulsan-Yadv/Customer-Behavior-Analytics-Dashboard.git
-```
-
-### Navigate to the project
-
-```bash
-cd Customer-Behavior-Analytics-Dashboard
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📄 Dataset
 
 **Retail Customer Shopping Behavior Dataset**
@@ -144,10 +85,4 @@ The dataset contains customer demographic information, purchase history, payment
 **Gulshan Yadav**
 
 - GitHub: https://github.com/Gulsan-Yadv
-- LinkedIn: *(Add your LinkedIn profile URL here)*
-
----
-
-## ⭐ If you found this project useful
-
-Please consider giving this repository a **Star ⭐**.
+- LinkedIn: https://www.linkedin.com/in/gulshan-yadav-4765553b3/
